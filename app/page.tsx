@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Link from "next/link";
-import slugify from "slugify";
 import { fetchPosts } from "../common/fetch-posts";
 import styles from "./home.module.css";
 
